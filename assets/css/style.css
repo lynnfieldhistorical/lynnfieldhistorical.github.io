@@ -38,7 +38,7 @@ header {
   justify-content: space-between;
   align-items: center;
   padding: 1rem 2rem;
-  background-color: #352a39;
+  background-color: #04579b;
   color: #fff;
   box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
 }
@@ -78,7 +78,7 @@ header nav ul li a {
 }
 
 header nav ul li a:hover {
-  color: #ffd700; /* Modern gold hover color */
+  color: #a1662d; /* LHC brown */
 }
 
 /* Main content */
@@ -114,7 +114,7 @@ main {
 .featured h1 {
   font-family: 'Carattere', cursive;
   font-size: 2.5rem; /* Adjust size as needed */
-  color: #352a39;
+  color: #04579b;
   margin-bottom: 1rem;
 }
 
@@ -244,7 +244,7 @@ main {
   font-weight: 700;
   text-align: center;
   margin-bottom: 2rem;
-  color: #352a39;
+  color: #04579b;
 }
 
 .tag-index ul {
@@ -290,7 +290,7 @@ main {
 }
 
 .tag-button:hover {
-  background-color: #0056b3;
+  background-color: #003984;
 }
 
 /* iFrames and Other Buttons */
@@ -309,9 +309,9 @@ main {
   margin: 2rem 0; /* Optional spacing above and below */
 }
 
-.purple-button {
+.blue-button {
   display: inline-block;
-  background-color: #352a39; 
+  background-color: #04579b; 
   color: #fff;
   padding: 0.75em 1.5em;
   border-radius: 30px;
@@ -322,8 +322,8 @@ main {
   transition: background-color 0.3s ease, transform 0.2s ease;
 }
 
-.purple-button:hover {
-  background-color: #732d91; 
+.blue-button:hover {
+  background-color: #003984; 
   transform: translateY(-2px);
 }
 
@@ -345,7 +345,7 @@ footer {
   width: 100%;
   text-align: center;
   padding: 1.5rem 0;
-  background-color: #352a39;
+  background-color: #04579b;
   color: #fff;
   box-shadow: 0 -4px 6px rgba(0, 0, 0, 0.1);
 }
