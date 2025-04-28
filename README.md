@@ -13,3 +13,9 @@ tags:
     - "tag4"
 image: "assets/images/imagename.jpg"
 ---
+
+## Things I Need to Fix
+
+- Alphabetical list of tags
+- Connecting to WorPress domain PROPERLY
+
