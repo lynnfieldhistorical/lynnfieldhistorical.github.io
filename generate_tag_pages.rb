@@ -55,7 +55,8 @@ all_tags.each do |tag|
 
     tagged_posts.each do |post|
       post_title = post[:title]
-      post_path = post[:path].sub('_posts/', '/blog/').sub(/\.(md|markdown)$/, '.html')
+      post_slug = File.basename(post[:path], File.extname(post[:path])).split('-', 4).last
+      post_path = "/#{post_slug}/"
       file.puts "- [#{post_title}](#{post_path})"
     end
   end

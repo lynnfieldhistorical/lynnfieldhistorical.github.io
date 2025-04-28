@@ -6,4 +6,4 @@ permalink: /tags/ama/
 ---
 
 ## Posts tagged with "AMA"
-- [Considering Freedmen’s Schools & the AMA](/blog/2019-06-17-freedmens-schools-ama.html)
+- [Considering Freedmen’s Schools & the AMA](/freedmens-schools-ama/)

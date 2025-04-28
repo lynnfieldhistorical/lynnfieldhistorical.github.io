@@ -6,4 +6,4 @@ permalink: /tags/freedmens-bureau/
 ---
 
 ## Posts tagged with "Freedmen's Bureau"
-- [Considering Freedmen’s Schools & the AMA](/blog/2019-06-17-freedmens-schools-ama.html)
+- [Considering Freedmen’s Schools & the AMA](/freedmens-schools-ama/)
