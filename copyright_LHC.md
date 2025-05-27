@@ -1,5 +1,5 @@
 ---
-layout: default2
+layout: copyright
 title: Copyright
 permalink:
 ---
