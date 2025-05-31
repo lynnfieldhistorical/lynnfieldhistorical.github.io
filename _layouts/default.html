@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noai, noimageai">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Carattere&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-3ELLPWCW0C"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-3ELLPWCW0C');
+  </script>
+
+</head>
+
+<body>
+  
+  <!-- Header Section -->
+  <header>
+    
+      <div class="logo">
+        <a href="{{ site.baseurl }}/">
+          <img src="{{ site.baseurl }}/assets/images/lhc_square_logo.jpg" alt="Site Logo">
+        </a>
+      </div>
+    <nav>
+      <ul class="nav-links">
+        <li><a href="{{ site.baseurl }}/">Home</a></li>
+        <li><a href="{{ site.baseurl }}/projects">Projects</a></li>
+        <li><a href="{{ site.baseurl }}/blog">Blog</a></li>
+        <li><a href="{{ site.baseurl }}/about">About</a></li>
+        <li><a href="{{ site.baseurl }}/contact">Contact</a></li>
+      </ul>
+    </nav>
+    
+  </header>
+
+  <!-- Main Content -->
+  <main>
+    <div class="wrapper">
+    {{ content }}
+    </div>
+    {% include warning_LHC.html %}
+  </main>
+
+  <!-- Footer Section -->
+  <footer>
+    <div class="wrapper">
+      <div class="footer">
+      <p>&copy; Lynnfield Historical Consulting | "Unlock Your Legacy"</p>
+    </div>
+    </div>
+  </footer> 
+
+</body>
+
+</html>
