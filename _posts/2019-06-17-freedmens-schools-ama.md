@@ -14,7 +14,7 @@ image: "assets/images/James_Plantation_School.jpg"
 
 _I am re-working a personal research project, and I thought I might post some thoughts about my archival findings so far. Enjoy!_
 
-While working through some primary sources recently, I came across an article in [Harper’s Weekly](https://en.wikipedia.org/wiki/Harper's_Weekly) that featured educational institutions for Black Americans. Of particular  interest to me was James’s Plantation Freedmen’s School in North  Carolina.
+While working through some primary sources recently, I came across an article in [Harper’s Weekly](https://en.wikipedia.org/wiki/Harper's_Weekly) that featured educational institutions for Black Americans. Of particular  interest to me was James’s Plantation Freedmen’s School in North  Carolina. {% include vw_bloc.html %}
 
 The school was named after Reverend Horace James, a minister from  Massachusetts who served as a chaplain in the Union army. In 1863,  General John G. Foster, commander of the North Carolina Department of  the [Freedmen’s Bureau](https://en.wikipedia.org/wiki/Freedmen%27s_Bureau), appointed Reverend James as “Superintendent of Negro Affairs for the  North Carolina District” and tasked him with maintaining the [Freedmen’s Colony of Roanoke Island](https://www.roanokefreedmenscolony.com/).
 
